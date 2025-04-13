@@ -16,11 +16,16 @@ A Python-based tool for extracting structured **author information** from **Arab
 
 ## 🌟 Installation
 
-Step 1: Clone the github repo
+Step 1: Clone the GitHub repo
+
 Step 2: Make a virtual env -> py -m venv .venv (on gitbash)
+
 Step 3: Activate .venv -> source .venv/Scripts/activate (on gitbash)
+
 Step 4: pip install -r requirements.txt
+
 Step 5: Add your Gemini api key in .env file (I am using gemini 1.5 Flash)
+
 Step 6: streamlit run app.py
 
 ## 🌟 How to use
