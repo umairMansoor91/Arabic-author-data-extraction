@@ -1,0 +1,37 @@
+{
+  "author": {
+    "full_name": "محمد بن عبد الرحمن بن يزيد النخعي",
+    "aliases": [
+      "الكيس"
+    ],
+    "students": [
+      "زبيد اليامي",
+      "الحكم",
+      "منصور",
+      "الأعمش",
+      "الحسن بن عمرو",
+      "الفقيمي"
+    ],
+    "teachers": [
+      "أبيه",
+      "عمه الأسود",
+      "عم أبيه علقمة"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثقة",
+    "scholarly_evaluations": [
+      "رفيع القدر من الجلة",
+      "كان يقال له الكيس لتلطفه في العبادة"
+    ]
+  },
+  "hadiths": null,
+  "places": null
+}

@@ -1,0 +1,57 @@
+{
+  "author": {
+    "full_name": "أَبُو تَمِيْمٍ الجَيْشَانِيُّ عَبْدُ هللاِ بنُ مَالِكٍ",
+    "aliases": [],
+    "students": [
+      "عبد الله بن هبيرة",
+      "كعب بن علقمة",
+      "مرثد بن عبد الله اليازني",
+      "بكر بن سوادة"
+    ],
+    "teachers": [
+      "عمر",
+      "علي",
+      "أبو ذر",
+      "معاذ بن جبل"
+    ],
+    "birth_year": null,
+    "death_year": 77,
+    "birthplace": null,
+    "primary_locations": [
+      "مصر",
+      "المدينة"
+    ],
+    "era": "صحابى",
+    "travel_history": [],
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "مِنْ أَئِمَّةِ التَّابِعِيْنَ بِمِصْرَ",
+      "كَانَ مِنْ أَعْبَدِ أَهْلِ مِصْرَ"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "مصر",
+      "type": "city"
+    },
+    {
+      "place_id": "2",
+      "name": "المدينة",
+      "type": "city"
+    },
+    {
+      "place_id": "3",
+      "name": "اليمن",
+      "type": "region"
+    }
+  ]
+}

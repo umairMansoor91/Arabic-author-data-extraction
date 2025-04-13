@@ -1,0 +1,40 @@
+{
+  "author": {
+    "full_name": "خَرَشَةُ بنُ الحُر",
+    "aliases": null,
+    "students": [
+      "رِبْعِيُّ بنُ حِرَاشٍ",
+      "أَبُو زُرْعَةَ البَجَلِيُّ",
+      "المُسَيَّبُ بنُ رَافِعٍ",
+      "سُلَيْمَانُ بنُ مُسْهِرٍ"
+    ],
+    "teachers": [
+      "عُمَرَ",
+      "أَبِي ذَرٍ الغِفَارِي",
+      "عَبْدِ اللهِ بنُ سَالَمٍ"
+    ],
+    "birth_year": null,
+    "death_year": 74,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثِقَةٌ بِاتفاقٍ",
+    "scholarly_evaluations": [
+      "ثِقَةٌ"
+    ]
+  },
+  "hadiths": null,
+  "places": [
+    {
+      "place_id": "1",
+      "name": "الكوفة",
+      "type": "city"
+    }
+  ]
+}

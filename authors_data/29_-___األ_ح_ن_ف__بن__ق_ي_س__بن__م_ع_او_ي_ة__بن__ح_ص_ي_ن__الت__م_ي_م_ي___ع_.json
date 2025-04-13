@@ -1,0 +1,129 @@
+{
+  "author": {
+    "full_name": "الأحنف بن قيس بن معاوية بن حصين التميمي",
+    "aliases": [
+      "ضحاك",
+      "صخر"
+    ],
+    "students": [
+      "عمرو بن جوآن",
+      "الحسن البصري",
+      " عروة بن الزبير",
+      "طلحة بن حبيب",
+      "عبد الله بن عميرة",
+      "يزيد بن الشخير",
+      "خالد العصري"
+    ],
+    "teachers": [
+      "عمر",
+      "علي",
+      "أبي ذر",
+      "العباس",
+      "ابن مسعود",
+      "عثمان بن عفان"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "البصرة",
+      "الكوفة"
+    ],
+    "era": null,
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "تستر",
+        "year_visited": null
+      },
+      {
+        "travel_id": "2",
+        "city": "مرو الروذ",
+        "year_visited": null
+      },
+      {
+        "travel_id": "3",
+        "city": "بلخ",
+        "year_visited": null
+      },
+      {
+        "travel_id": "4",
+        "city": "خوارزم",
+        "year_visited": null
+      },
+      {
+        "travel_id": "5",
+        "city": "هرات",
+        "year_visited": null
+      },
+      {
+        "travel_id": "6",
+        "city": "أبرشهر",
+        "year_visited": null
+      },
+      {
+        "travel_id": "7",
+        "city": "الكوفة",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": true,
+    "memory_changes": null,
+    "known_tadlis": false,
+    "scholarly_reliability": "ثقة، مامون، قليل الحديث",
+    "scholarly_evaluations": [
+      "كان سيد تميم",
+      "أحد من يضرب بحلمه وسؤدده المثل"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    },
+    {
+      "hadith_id": "2"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "مرو الروذ",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "2",
+      "name": "تستر",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "3",
+      "name": "بلخ",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "4",
+      "name": "خوارزم",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "5",
+      "name": "هرات",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "6",
+      "name": "أبرشهر",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "7",
+      "name": "البصرة",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "8",
+      "name": "الكوفة",
+      "type": "مدينة"
+    }
+  ]
+}

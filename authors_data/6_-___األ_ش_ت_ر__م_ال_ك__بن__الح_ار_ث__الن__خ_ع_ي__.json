@@ -1,0 +1,28 @@
+{
+  "author": {
+    "full_name": "مالك بن الحارث النخعي",
+    "aliases": [
+      "الأشتر"
+    ],
+    "students": null,
+    "teachers": [
+      "عمرو",
+      "خالد بن الوليد"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "مصر"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": []
+  },
+  "hadiths": null,
+  "places": []
+}

@@ -1,0 +1,72 @@
+{
+  "author": {
+    "full_name": "عمرو بن الأسود العَنْسِيّ",
+    "aliases": [
+      "عُمَيْرُ بنُ األَسْوَدِ",
+      "أَبُو عِيَاضٍ",
+      "أَبُو عَبْدِ الرَّحْمَنِ"
+    ],
+    "students": [
+      "مجاهد",
+      "خالد بن معدّان",
+      "أبو راشد الحبرانّي",
+      "يونس بن سيف"
+    ],
+    "teachers": [
+      "عمر",
+      "ابن مسعود",
+      "أبي الدرداء",
+      "عبادة بن الصامت",
+      "أم حرام بنت ملحان",
+      "العِرباض بن سارية"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "الحمص",
+      "داريا",
+      "المدينة"
+    ],
+    "era": "الجاهلية والإسلام",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "المدينة",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": false,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "كان من سادة التابعين ديناً وورعاً"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    },
+    {
+      "hadith_id": "2"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "الحمص",
+      "type": "city"
+    },
+    {
+      "place_id": "2",
+      "name": "داريا",
+      "type": "city"
+    },
+    {
+      "place_id": "3",
+      "name": "المدينة",
+      "type": "city"
+    }
+  ]
+}

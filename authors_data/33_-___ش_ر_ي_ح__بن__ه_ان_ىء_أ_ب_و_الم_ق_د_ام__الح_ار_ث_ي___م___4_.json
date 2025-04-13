@@ -1,0 +1,67 @@
+{
+  "author": {
+    "full_name": "شُرَيْحُ بنُ هَانِىء أَبُو المِقْدَامِ الحَارِثِيُّ",
+    "aliases": [
+      "أَبُو المِقْدَامِ"
+    ],
+    "students": [
+      "محمد",
+      "المِقْدَامُ",
+      "الشَّعْبِيُّ",
+      "القَاسِمُ بنُ مُخَيْمَرَةَ",
+      "حَبِيْبُ بنُ أَبِي ثَابِتٍ",
+      "يُونُسُ بنُ أَبِي إِسْحَاقَ"
+    ],
+    "teachers": [
+      "أَبِيْهِ",
+      "عَلِيٌّ",
+      "عُمَرُ",
+      "عَائِشَةَ",
+      "سَعْدُ بنُ أَبِي وَقَّاصٍ",
+      "أَبِي هُرَيْرَةَ"
+    ],
+    "birth_year": null,
+    "death_year": 4,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": "Jahiliyyah and Islamic",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "دومة الجندل",
+        "year_visited": null
+      },
+      {
+        "travel_id": "2",
+        "city": "سجستان",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": true,
+    "memory_changes": null,
+    "known_tadlis": false,
+    "scholarly_reliability": "ثِقَةٌ",
+    "scholarly_evaluations": [
+      "متقدم جداً"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "دومة الجندل",
+      "type": "حصن"
+    },
+    {
+      "place_id": "2",
+      "name": "سجستان",
+      "type": "إقليم"
+    }
+  ]
+}

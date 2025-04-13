@@ -1,0 +1,41 @@
+{
+  "author": {
+    "full_name": "سُفْيَانُ بنُ هَانِىء المِصْرِيُّ",
+    "aliases": [
+      "أَبُو سَالِمٍ الجَيْشَانِيُّ"
+    ],
+    "students": [
+      "سَالِمٌ",
+      "بَكْرُ بنُ سَوَادَةَ",
+      "يَزِيْدُ بنُ أَبِي حَبِيْبٍ",
+      "عُبَيْدُ هللاِ بنُ أَبِي جَعْفَرٍ",
+      "سَعِيْدُ بنُ سَالِمٍ"
+    ],
+    "teachers": [
+      "أَبِي ذَرٍ",
+      "عَلِيٍ",
+      "زَيْدِ بنِ خَالِدٍ"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "مصر"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": null
+  },
+  "hadiths": null,
+  "places": [
+    {
+      "place_id": "1",
+      "name": "مصر",
+      "type": "city"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "author": {
+    "full_name": "أَسْلَمُ العَدَوِيُّ العُمَرِيُّ مَوْلَى عُمَرَ بنِ الخَطَّابِ",
+    "aliases": [
+      "أَبُو زَيْدٍ",
+      "أَبُو خَالِدٍ"
+    ],
+    "students": [
+      "زَيْدٌ",
+      "القَاسِمُ بنُ مُحَمَّدٍ",
+      "نافِعٌ مَوْلَى ابْنِ عُمَرَ",
+      "مُسْلِمُ بنُ جُنْدُبٍ"
+    ],
+    "teachers": [
+      "أَبِي بَكْرٍ",
+      "عُمَرَ",
+      "عُثْمَانَ",
+      "مُعَاذٍ",
+      "أَبِي عُبَيْدَةَ بنِ الجَرَّاحِ",
+      "كَعْبِ األَحْبَارِ",
+      "ابْنِ عُمَرَ"
+    ],
+    "birth_year": null,
+    "death_year": 80,
+    "birthplace": null,
+    "primary_locations": [
+      "المدينة"
+    ],
+    "era": null,
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "الجابية",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": true,
+    "memory_changes": null,
+    "known_tadlis": false,
+    "scholarly_reliability": "ثِقَةٌ",
+    "scholarly_evaluations": [
+      "ثقة"
+    ]
+  },
+  "hadiths": [],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "عين التمر",
+      "type": "بلدة"
+    },
+    {
+      "place_id": "2",
+      "name": "مكة",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "3",
+      "name": "المدينة",
+      "type": "مدينة"
+    },
+    {
+      "place_id": "4",
+      "name": "الكوْفة",
+      "type": "مدينة"
+    }
+  ]
+}

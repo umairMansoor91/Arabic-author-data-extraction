@@ -1,0 +1,47 @@
+{
+  "author": {
+    "full_name": "قَيْسُ بنُ المُلَو ِحِ العَامِرِيُّ",
+    "aliases": [
+      "المَجْنُوْنُ",
+      "ابن معاذ",
+      "بَخْتَرِيُّ بنُ الجَعْدِ"
+    ],
+    "students": null,
+    "teachers": null,
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "نجد",
+      "الشام",
+      "الحجاز",
+      "منى"
+    ],
+    "era": "جاهلية",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "منى",
+        "year_visited": null
+      },
+      {
+        "travel_id": "2",
+        "city": "الشام",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": false,
+    "memory_changes": "فقد عَقْلَهُ",
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": []
+  },
+  "hadiths": null,
+  "places": [
+    {
+      "place_id": "1",
+      "name": "ذو سلم",
+      "type": "موضع"
+    }
+  ]
+}

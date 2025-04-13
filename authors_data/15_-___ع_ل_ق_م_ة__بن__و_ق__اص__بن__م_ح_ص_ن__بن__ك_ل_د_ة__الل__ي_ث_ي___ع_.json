@@ -1,0 +1,52 @@
+{
+  "author": {
+    "full_name": "عَلْقَمَةُ بنُ وَقَّاصِ بنِ مِحْصَنِ بنِ كَلَدَةَ اللَّيْثِيُّ",
+    "aliases": [
+      "العُتْوَارِيُّ",
+      "الْمَدَنِيُّ"
+    ],
+    "students": [
+      "عَمْرٌو",
+      "عَبْدُ هللاِ",
+      "الزُّهْرِيُّ",
+      "ابْنُ أَبِي مُلَيْكَةَ",
+      "مُحَمَّدُ بنُ إِبْرَاهِيْمَ التَّيْمِيُّ",
+      "عَمْرُو بنُ يَحْيَى المَازِنِيُّ"
+    ],
+    "teachers": [
+      "عُمَرَ",
+      "عَائِشَةَ",
+      "بِالَلِ بنِ الحَارِثِ المُزَنِي",
+      "عَمْرِو بنُ العَاصِ",
+      "ابْنُ عُمَرَ"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "المدينة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "وثقه ابن سعد",
+      "وثقه النسائي"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "المدينة",
+      "type": "city"
+    }
+  ]
+}

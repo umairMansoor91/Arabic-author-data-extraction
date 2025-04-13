@@ -1,0 +1,44 @@
+{
+  "author": {
+    "full_name": "الحارث بن قيس الجعفي الكوفي",
+    "aliases": null,
+    "students": [
+      "خيثمة بن عبد الرحمن",
+      "يحيى بن هانئ",
+      "أبو داود الأعمى"
+    ],
+    "teachers": [
+      "علي بن أبي طالب",
+      "ابن مسعود"
+    ],
+    "birth_year": null,
+    "death_year": 76,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "العابد",
+      "الفقيه",
+      "قديم الوفاة"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "الكوفة",
+      "type": "city"
+    }
+  ]
+}

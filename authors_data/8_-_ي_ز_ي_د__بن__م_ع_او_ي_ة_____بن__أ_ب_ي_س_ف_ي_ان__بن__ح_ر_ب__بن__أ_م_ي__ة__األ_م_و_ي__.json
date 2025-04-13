@@ -1,0 +1,100 @@
+{
+  "author": {
+    "full_name": "يزيد بن معاوية بن أبي سفيان بن حرب بن أمية",
+    "aliases": [
+      "أبو خالد",
+      "القرشي",
+      "الأموي",
+      "الدمشقي"
+    ],
+    "students": null,
+    "teachers": null,
+    "birth_year": null,
+    "death_year": 64,
+    "birthplace": null,
+    "primary_locations": [
+      "دمشق",
+      "حمص"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": false,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": []
+  },
+  "hadiths": [],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "الخازر",
+      "type": "river"
+    },
+    {
+      "place_id": "2",
+      "name": "إربل",
+      "type": "city"
+    },
+    {
+      "place_id": "3",
+      "name": "الموصل",
+      "type": "city"
+    },
+    {
+      "place_id": "4",
+      "name": "الزاب الأعلى",
+      "type": "river"
+    },
+    {
+      "place_id": "5",
+      "name": "ثنية العقاب",
+      "type": "location"
+    },
+    {
+      "place_id": "6",
+      "name": "المدينة",
+      "type": "city"
+    },
+    {
+      "place_id": "7",
+      "name": "حمص",
+      "type": "city"
+    },
+    {
+      "place_id": "8",
+      "name": "الگوطة",
+      "type": "location"
+    },
+    {
+      "place_id": "9",
+      "name": "قسطنطينية",
+      "type": "city"
+    },
+    {
+      "place_id": "10",
+      "name": "أصبهان",
+      "type": "city"
+    },
+    {
+      "place_id": "11",
+      "name": "الطائف",
+      "type": "city"
+    },
+    {
+      "place_id": "12",
+      "name": "بَرْدَى",
+      "type": "river"
+    },
+    {
+      "place_id": "13",
+      "name": "مكة",
+      "type": "city"
+    },
+    {
+      "place_id": "14",
+      "name": "البصرة",
+      "type": "city"
+    }
+  ]
+}

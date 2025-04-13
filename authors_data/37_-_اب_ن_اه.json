@@ -1,0 +1,41 @@
+{
+  "author": {
+    "full_name": "عبد الله بن محمد بن الحنفية الهاشمي",
+    "aliases": [
+      "أبو هاشم الهاشمي",
+      "العلوي",
+      "المدني"
+    ],
+    "students": [
+      "الزهرى",
+      "عمرو بن دينار",
+      "سالم بن أبي الجعد",
+      "محمد بن علي بن عبد الله بن عباس"
+    ],
+    "teachers": [
+      "أبيه"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "المدينة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثقة، قليل الحديث",
+    "scholarly_evaluations": [
+      "كان صاحب الشيعة",
+      "كانت الشيعة تنتحله"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "حديث تحريم المتعة"
+    }
+  ],
+  "places": []
+}

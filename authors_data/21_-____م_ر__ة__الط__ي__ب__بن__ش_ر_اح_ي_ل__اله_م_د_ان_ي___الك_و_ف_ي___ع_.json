@@ -1,0 +1,50 @@
+{
+  "author": {
+    "full_name": "مُرّةُ الطيب بن شراحيل الهَمْدَانِيّ الكوفيّ",
+    "aliases": [
+      "مُرّةُ الخير"
+    ],
+    "students": [
+      "أَسْلَمُ الكوفيّ",
+      "زُبَيْدٌ الياميّ",
+      "حُصَيْنُ بنُ عَبْدِ الرَّحْمَنِ",
+      "عَطَاءُ بنُ السَّائِبِ",
+      "إِسْمَاعِيْلُ بنُ أَبِي خَالِدٍ"
+    ],
+    "teachers": [
+      "أَبِي بَكْرٍ الصديق",
+      "عُمَر",
+      "أَبِي ذَرّ",
+      "ابْنُ مَسْعُودٍ",
+      "أَبِي مُوسَى الأشعريّ"
+    ],
+    "birth_year": null,
+    "death_year": 88,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": "مُخَضْرَمٌ",
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثقات",
+    "scholarly_evaluations": [
+      "كبير الشأن"
+    ]
+  },
+  "hadiths": [],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "الكوفة",
+      "type": "city"
+    },
+    {
+      "place_id": "2",
+      "name": "الاسكندرية",
+      "type": "city"
+    }
+  ]
+}

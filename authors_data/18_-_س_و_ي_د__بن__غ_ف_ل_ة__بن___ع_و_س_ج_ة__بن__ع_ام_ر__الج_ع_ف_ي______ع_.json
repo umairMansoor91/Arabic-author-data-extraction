@@ -1,0 +1,50 @@
+{
+  "author": {
+    "full_name": "سُوَيْدُ بنُ غَفَلَةَ بنِ  عَوْسَجَةَ بنِ عَامِرٍ الجُعْفِيُّ",
+    "aliases": [
+      "أَبُو أُمَيَّةَ الجُعْفِيُّ",
+      "الكُوْفِيُّ"
+    ],
+    "students": [
+      "أَبُو لَيْلَى الكِنْدِيُّ",
+      "الشَّعْبِيُّ",
+      "إِبْرَاهِيْمُ النَّخَعِيُّ",
+      "سَلَمَةُ بنُ كُهَيْلٍ",
+      "عَبْدَةُ بنُ  أَبِي لُبَابَةَ",
+      "عَ بْدُ العَزِيْزِ بنُ رُفَيْعٍ",
+      "مَيْسَرَةُ أَبُو صَالِحٍ"
+    ],
+    "teachers": [
+      "أَبِي بَكْرٍ الص ِد ِيْقِ",
+      "عُمَر",
+      "عُثْمَانَ",
+      "عَلِيٍ",
+      "أُبَي ِ بنُ كَعْبٍ",
+      "بِالَلٍ",
+      "أَبِي ذَرٍ",
+      "ابْنِ مَسْعُوْدٍ"
+    ],
+    "birth_year": null,
+    "death_year": 181,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": []
+  },
+  "hadiths": [
+    {
+      "hadith_id": "Sahih Muslim 58(106)"
+    },
+    {
+      "hadith_id": "Sahih Bukhari 1/84"
+    }
+  ],
+  "places": []
+}

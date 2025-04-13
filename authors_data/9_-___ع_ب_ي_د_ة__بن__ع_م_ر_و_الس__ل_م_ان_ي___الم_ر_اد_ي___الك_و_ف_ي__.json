@@ -1,0 +1,46 @@
+{
+  "author": {
+    "full_name": "عبيدة بن عمرو السلماني المرادي الكوفي",
+    "aliases": [
+      "ابن قيس"
+    ],
+    "students": [
+      "إبراهيم النخعي",
+      "الشعبي",
+      "محمد بن سيرين",
+      "عبد الله بن سلمة المرادي",
+      "أبو إسحاق",
+      "مسلم أبو حسان الأعرج"
+    ],
+    "teachers": [
+      "علي",
+      "ابن مسعود"
+    ],
+    "birth_year": null,
+    "death_year": 72,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفة"
+    ],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثابت في الحديث، بارع في الفقه",
+    "scholarly_evaluations": [
+      "كان عبيدة يووازي شريحاً في القضاء",
+      "ما رأيت رجالاً كان أشد تواقياً من عبيدة",
+      "كان أحد أصحاب عبد الله بن مسعود الذين يقْرئون ويفْتون"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    },
+    {
+      "hadith_id": "2"
+    }
+  ],
+  "places": []
+}

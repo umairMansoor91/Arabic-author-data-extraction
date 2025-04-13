@@ -1,0 +1,66 @@
+{
+  "author": {
+    "full_name": "أُوَيْسٌ القَرَنِيُّ أَبُو عَمْرٍو بنُ عَامِرِ بنِ جَزْءِ بنِ مَالِكٍ المُرَادِيُّ",
+    "aliases": [
+      "أبو عمرو",
+      "أُوَيْسُ بنُ عَامِرِ بنِ جَزْءِ بنِ مَالِكٍ القَرَنِيُّ",
+      "المُرَادِيُّ",
+      "اليَمَانِيُّ"
+    ],
+    "students": null,
+    "teachers": [
+      "عمر",
+      "علي"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "الكوفي"
+    ],
+    "era": "صحابى",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "الكوفي",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": false,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "ثقة",
+    "scholarly_evaluations": [
+      "القدوة",
+      "الزاهد",
+      "سيد التابعين في زمانه"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "مسلم رقم 2542"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "قَرَنَ",
+      "type": "بطن من مُرَادٍ"
+    },
+    {
+      "place_id": "2",
+      "name": "مُرَادٍ",
+      "type": "قبيلة"
+    },
+    {
+      "place_id": "3",
+      "name": "اليمن",
+      "type": "منطقة"
+    },
+    {
+      "place_id": "4",
+      "name": "الكوفي",
+      "type": "مدينة"
+    }
+  ]
+}

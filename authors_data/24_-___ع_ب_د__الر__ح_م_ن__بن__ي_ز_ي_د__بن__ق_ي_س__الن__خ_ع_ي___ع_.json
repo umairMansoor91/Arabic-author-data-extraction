@@ -1,0 +1,44 @@
+{
+  "author": {
+    "full_name": "عبد الرحمن بن يزيد بن قيس النخعي",
+    "aliases": [
+      "أبو بكر النخعي"
+    ],
+    "students": [
+      "إبراهيم النخعي",
+      "أبو إسحاق السبئي",
+      "عمارة بن عمير",
+      "جامع بن شداد",
+      "منصور بن المعتمر",
+      "محمد بن عبد الرحمن"
+    ],
+    "teachers": [
+      "عثمان",
+      "ابن مسعود",
+      "سلمان الفارسي",
+      "حذيفة بن اليمان",
+      "عمر",
+      "عبد الله"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [],
+    "era": null,
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": "وثقَهُ: يحيى بن معين، وغيره",
+    "scholarly_evaluations": [
+      "إمام",
+      "فقيه"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "1"
+    }
+  ],
+  "places": []
+}

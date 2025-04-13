@@ -1,0 +1,48 @@
+{
+  "author": {
+    "full_name": "عمير بن هانيء العنسي الداراني",
+    "aliases": null,
+    "students": null,
+    "teachers": [
+      "ابن عمر"
+    ],
+    "birth_year": null,
+    "death_year": 127,
+    "birthplace": null,
+    "primary_locations": [
+      "دمشق"
+    ],
+    "era": "تابعي صغير",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "الحجاز",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": true,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "جليل"
+    ]
+  },
+  "hadiths": [
+    {
+      "hadith_id": "27 - أَمَّا"
+    }
+  ],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "دمشق",
+      "type": "city"
+    },
+    {
+      "place_id": "2",
+      "name": "الحجاز",
+      "type": "region"
+    }
+  ]
+}

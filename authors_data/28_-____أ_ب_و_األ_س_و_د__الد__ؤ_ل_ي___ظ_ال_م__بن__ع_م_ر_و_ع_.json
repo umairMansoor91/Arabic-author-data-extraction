@@ -1,0 +1,35 @@
+{
+  "author": {
+    "full_name": "أبو الأسود الدؤلي ظالم بن عمرو",
+    "aliases": [
+      "الدؤلي"
+    ],
+    "students": null,
+    "teachers": null,
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "البصرة"
+    ],
+    "era": "أيام النبوة",
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "عالم",
+      "فاضل",
+      "قاضي البصرة"
+    ]
+  },
+  "hadiths": null,
+  "places": [
+    {
+      "place_id": "1",
+      "name": "البصرة",
+      "type": "city"
+    }
+  ]
+}

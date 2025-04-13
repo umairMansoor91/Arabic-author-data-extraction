@@ -1,0 +1,36 @@
+{
+  "author": {
+    "full_name": "عاصم بن عمر بن الخطاب العدوي",
+    "aliases": [
+      "أبو عمرو",
+      "الفقيه",
+      "الشريف",
+      "القرشي",
+      "العدوي"
+    ],
+    "students": [
+      "حفظ",
+      "عبيد الله",
+      " عروة بن الزبير"
+    ],
+    "teachers": [
+      "أبيه"
+    ],
+    "birth_year": null,
+    "death_year": 70,
+    "birthplace": null,
+    "primary_locations": null,
+    "era": "أيام النبوة",
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "كان من نبالء الرجال، دينا، خيرا، صالحا، وكان بليغا، فصيحا، شاعرا",
+      "لَا يُرْوَى عَنْهُ سِوَى حَدِيْثٍ وَاحِدٍ"
+    ]
+  },
+  "hadiths": null,
+  "places": null
+}

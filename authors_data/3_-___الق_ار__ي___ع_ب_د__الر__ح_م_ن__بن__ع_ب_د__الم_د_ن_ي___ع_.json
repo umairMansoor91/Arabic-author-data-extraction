@@ -1,0 +1,35 @@
+{
+  "author": {
+    "full_name": "القارئ عبد الرحمن بن عبد المدني",
+    "aliases": [],
+    "students": [
+      "السائب بن يزيد",
+      " عروة",
+      "الأعرج",
+      "الزهري",
+      "محمد (ابنه)"
+    ],
+    "teachers": [
+      "عمر",
+      "أبي طلحة",
+      "أبي أيوب"
+    ],
+    "birth_year": null,
+    "death_year": 80,
+    "birthplace": null,
+    "primary_locations": [
+      "المدينة"
+    ],
+    "era": "النبوة",
+    "travel_history": null,
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": null,
+    "scholarly_reliability": null,
+    "scholarly_evaluations": [
+      "وثقه ابن معين"
+    ]
+  },
+  "hadiths": null,
+  "places": []
+}

@@ -1,0 +1,64 @@
+{
+  "author": {
+    "full_name": "عامر بن عبد قيس التميمي العنبرى البصرى",
+    "aliases": [
+      "أبو عبد الله",
+      "أبو عمرو"
+    ],
+    "students": [
+      "الحسن",
+      "محمد بن سيرين",
+      "أبو عبد الرحمن الحُبلي"
+    ],
+    "teachers": [
+      "عمر",
+      "سلمان"
+    ],
+    "birth_year": null,
+    "death_year": null,
+    "birthplace": null,
+    "primary_locations": [
+      "البصرة",
+      "الشام"
+    ],
+    "era": "صحابى",
+    "travel_history": [
+      {
+        "travel_id": "1",
+        "city": "الشام",
+        "year_visited": null
+      }
+    ],
+    "did_travel_for_hadith": null,
+    "memory_changes": null,
+    "known_tadlis": false,
+    "scholarly_reliability": "ثقة",
+    "scholarly_evaluations": [
+      "كان ثقة، من عباد التابعين",
+      "راهب هذه الأمة"
+    ]
+  },
+  "hadiths": [],
+  "places": [
+    {
+      "place_id": "1",
+      "name": "البصرة",
+      "type": "city"
+    },
+    {
+      "place_id": "2",
+      "name": "الشام",
+      "type": "region"
+    },
+    {
+      "place_id": "3",
+      "name": "الخضراء",
+      "type": "location"
+    },
+    {
+      "place_id": "4",
+      "name": "بيت المقدس",
+      "type": "city"
+    }
+  ]
+}
