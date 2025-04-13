@@ -1,4 +1,4 @@
-# 📄 Arabic Biography Author Extractor
+# 📄 Arabic Biography Author Extractor Using Gemini
 
 A Python-based (Streamlit) tool for extracting structured **author information** from **Arabic biography PDF files**. This project leverages PDF parsing and Arabic NLP techniques to extract names, birth/death dates, and other relevant biographical data for research and archival purposes.
 
